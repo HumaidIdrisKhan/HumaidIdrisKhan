@@ -6,6 +6,8 @@
 * **Branch:** B.Tech CSE Core
 * **Focus:** AI • Machine Learning • Python • Real-world Projects
 * **Learning Style:** Build → Break → Fix → Repeat
+* 
+---
 
 ---
 
