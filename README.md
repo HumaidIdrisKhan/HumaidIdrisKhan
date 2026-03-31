@@ -1,4 +1,8 @@
-
+👨‍💻 About Me
+Name: Humaid Idris Khan
+Branch: B.Tech (AI / Tech Enthusiast)
+Focus: AI • Machine Learning • Python • Real-world Projects
+Learning Style: Build → Break → Fix → Repeat
 ---
 
 ## 🚀 What I'm Working On
