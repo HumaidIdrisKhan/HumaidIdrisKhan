@@ -52,16 +52,3 @@ Currently focused on:
 
 ---
 
-## 📌 Current Goal
-
-> Build **cool, practical AI projects** that actually solve problems
-> (not just copy — but understand & improve them)
-
----
-
-## 🌱 Motto
-
-⭐ *Always learning. Always building. Always improving.*
-
----
-
